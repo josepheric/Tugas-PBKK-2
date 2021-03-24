@@ -1,0 +1,15 @@
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.Form1.resources
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.GenerateResource.cache
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\calc\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
